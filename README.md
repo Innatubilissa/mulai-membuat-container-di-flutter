@@ -1,2 +1,2 @@
 # mulai-membuat-container-di-flutter
-mengenai cara membuat container di flutter dan textstyle
+mengenal cara membuat container di flutter dan mengenal cara pemakaian textstyle
